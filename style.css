@@ -4,3 +4,6 @@ h1 {
 p {
   font-family: "Roboto", sans-serif;
 }
+p {
+  text-align: left;
+}
